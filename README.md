@@ -1,4 +1,4 @@
-# opening_kubernetes_dashboard
+# Install and Open Kubernetes Dashboard
 
 
 This script will open Kubernetes dashboard with the token that will be outputed for user to copy and paste to start the dashboard.
