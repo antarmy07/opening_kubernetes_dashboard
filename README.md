@@ -1,7 +1,7 @@
 # Install and Open Kubernetes Dashboard
 
 
-This script will open Kubernetes dashboard with the token that will be outputed for user to copy and paste to start the dashboard.
+This script will open Kubernetes dashboard with the token, that token will be outputed on the terminal which can be used to copy and paste to start the dashboard.
 
 
 **NOTE**
